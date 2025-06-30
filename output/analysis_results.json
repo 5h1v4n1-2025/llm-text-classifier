@@ -1,0 +1,171 @@
+{
+  "summary_table": "                       email       primary_category   secondary_category  count\n0   shivani.bajaj@ashoka.edu          entertainment  newsletter_substack      1\n1   shivani.bajaj@ashoka.edu          entertainment                other      9\n2   shivani.bajaj@ashoka.edu          entertainment            storybook      4\n3   shivani.bajaj@ashoka.edu          entertainment      textbook_or_pdf      2\n4   shivani.bajaj@ashoka.edu  learning/productivity                other      8\n5   shivani.bajaj@ashoka.edu  learning/productivity            storybook      1\n6   shivani.bajaj@ashoka.edu  learning/productivity      textbook_or_pdf      1\n7   shivani.bajaj@ashoka.edu         online_content  newsletter_substack      2\n8   shivani.bajaj@ashoka.edu         online_content          reddit_post      1\n9   shivani.bajaj@ashoka.edu         online_content            storybook      2\n10  shivani.bajaj@ashoka.edu         online_content      textbook_or_pdf      1\n11            taniya@lsr.edu          entertainment                other      5\n12            taniya@lsr.edu          entertainment      textbook_or_pdf      5\n13            taniya@lsr.edu  learning/productivity  newsletter_substack      2\n14            taniya@lsr.edu  learning/productivity                other      2\n15            taniya@lsr.edu  learning/productivity      textbook_or_pdf      6\n16            taniya@lsr.edu         online_content      textbook_or_pdf      1",
+  "total_generations": 53,
+  "unique_users": 2,
+  "primary_category_stats": {
+    "generations": {
+      "entertainment": 26,
+      "learning/productivity": 20,
+      "online_content": 7
+    },
+    "unique_users": {
+      "entertainment": 2,
+      "learning/productivity": 2,
+      "online_content": 2
+    }
+  },
+  "secondary_category_stats": {
+    "generations": {
+      "other": 24,
+      "textbook_or_pdf": 16,
+      "storybook": 7,
+      "newsletter_substack": 5,
+      "reddit_post": 1
+    },
+    "unique_users": {
+      "newsletter_substack": 2,
+      "other": 2,
+      "reddit_post": 1,
+      "storybook": 1,
+      "textbook_or_pdf": 2
+    }
+  },
+  "bias_flags": [
+    {
+      "category_type": "primary",
+      "category": "entertainment",
+      "user": "shivani.bajaj@ashoka.edu",
+      "count": 16,
+      "total_in_category": 26,
+      "percentage": 0.6153846153846154
+    },
+    {
+      "category_type": "primary",
+      "category": "entertainment",
+      "user": "taniya@lsr.edu",
+      "count": 10,
+      "total_in_category": 26,
+      "percentage": 0.38461538461538464
+    },
+    {
+      "category_type": "primary",
+      "category": "learning/productivity",
+      "user": "shivani.bajaj@ashoka.edu",
+      "count": 10,
+      "total_in_category": 20,
+      "percentage": 0.5
+    },
+    {
+      "category_type": "primary",
+      "category": "learning/productivity",
+      "user": "taniya@lsr.edu",
+      "count": 10,
+      "total_in_category": 20,
+      "percentage": 0.5
+    },
+    {
+      "category_type": "primary",
+      "category": "online_content",
+      "user": "shivani.bajaj@ashoka.edu",
+      "count": 6,
+      "total_in_category": 7,
+      "percentage": 0.8571428571428571
+    },
+    {
+      "category_type": "secondary",
+      "category": "textbook_or_pdf",
+      "user": "taniya@lsr.edu",
+      "count": 12,
+      "total_in_category": 16,
+      "percentage": 0.75
+    },
+    {
+      "category_type": "secondary",
+      "category": "textbook_or_pdf",
+      "user": "shivani.bajaj@ashoka.edu",
+      "count": 4,
+      "total_in_category": 16,
+      "percentage": 0.25
+    },
+    {
+      "category_type": "secondary",
+      "category": "other",
+      "user": "shivani.bajaj@ashoka.edu",
+      "count": 17,
+      "total_in_category": 24,
+      "percentage": 0.7083333333333334
+    },
+    {
+      "category_type": "secondary",
+      "category": "other",
+      "user": "taniya@lsr.edu",
+      "count": 7,
+      "total_in_category": 24,
+      "percentage": 0.2916666666666667
+    },
+    {
+      "category_type": "secondary",
+      "category": "storybook",
+      "user": "shivani.bajaj@ashoka.edu",
+      "count": 7,
+      "total_in_category": 7,
+      "percentage": 1.0
+    },
+    {
+      "category_type": "secondary",
+      "category": "newsletter_substack",
+      "user": "shivani.bajaj@ashoka.edu",
+      "count": 3,
+      "total_in_category": 5,
+      "percentage": 0.6
+    },
+    {
+      "category_type": "secondary",
+      "category": "newsletter_substack",
+      "user": "taniya@lsr.edu",
+      "count": 2,
+      "total_in_category": 5,
+      "percentage": 0.4
+    },
+    {
+      "category_type": "secondary",
+      "category": "reddit_post",
+      "user": "shivani.bajaj@ashoka.edu",
+      "count": 1,
+      "total_in_category": 1,
+      "percentage": 1.0
+    }
+  ],
+  "top_users_by_category": {
+    "primary_entertainment": {
+      "shivani.bajaj@ashoka.edu": 16,
+      "taniya@lsr.edu": 10
+    },
+    "primary_learning/productivity": {
+      "shivani.bajaj@ashoka.edu": 10,
+      "taniya@lsr.edu": 10
+    },
+    "primary_online_content": {
+      "shivani.bajaj@ashoka.edu": 6,
+      "taniya@lsr.edu": 1
+    },
+    "secondary_textbook_or_pdf": {
+      "taniya@lsr.edu": 12,
+      "shivani.bajaj@ashoka.edu": 4
+    },
+    "secondary_other": {
+      "shivani.bajaj@ashoka.edu": 17,
+      "taniya@lsr.edu": 7
+    },
+    "secondary_storybook": {
+      "shivani.bajaj@ashoka.edu": 7
+    },
+    "secondary_newsletter_substack": {
+      "shivani.bajaj@ashoka.edu": 3,
+      "taniya@lsr.edu": 2
+    },
+    "secondary_reddit_post": {
+      "shivani.bajaj@ashoka.edu": 1
+    }
+  }
+}

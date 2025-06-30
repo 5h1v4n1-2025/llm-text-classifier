@@ -1,0 +1,9 @@
+category,unique_users,category_type
+entertainment,2,primary
+learning/productivity,2,primary
+online_content,2,primary
+newsletter_substack,2,secondary
+other,2,secondary
+reddit_post,1,secondary
+storybook,1,secondary
+textbook_or_pdf,2,secondary

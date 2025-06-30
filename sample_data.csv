@@ -1,0 +1,21 @@
+email,text,voice
+user1@example.com,"Once upon a time, there was a brave knight who lived in a magical kingdom. He embarked on a quest to save the princess from an evil dragon.",voice_1
+user2@example.com,"Chapter 1: Introduction to Machine Learning. This chapter covers the fundamental concepts of supervised and unsupervised learning algorithms.",voice_2
+user3@example.com,"r/technology - Just discovered this amazing new AI tool that completely changed my workflow. Has anyone else tried it? The results are incredible!",voice_3
+user1@example.com,"The princess lived in a beautiful castle surrounded by enchanted forests. Every day, she would look out her window and dream of adventure.",voice_1
+user4@example.com,"Weekly Newsletter - This week's top stories in tech: 1) New developments in AI research 2) Latest startup funding rounds 3) Industry insights",voice_4
+user2@example.com,"Section 2.3: Neural Networks. Neural networks are computational models inspired by biological neural networks.",voice_2
+user5@example.com,"r/books - Just finished reading this incredible fantasy novel. The world-building was phenomenal and the characters were so well-developed!",voice_5
+user3@example.com,"The dragon's lair was filled with treasures beyond imagination. Gold coins, precious gems, and ancient artifacts covered every surface.",voice_3
+user6@example.com,"Monthly Digest - Our team's research on natural language processing has been published in the top AI conference. Read our findings here.",voice_6
+user1@example.com,"The knight's sword gleamed in the sunlight as he prepared for the final battle. His armor was dented but his spirit was unbroken.",voice_1
+user4@example.com,"r/science - New study shows promising results in quantum computing. The researchers achieved a 99.9% accuracy rate in their experiments.",voice_4
+user2@example.com,"Exercise 3.2: Implement a decision tree classifier using the provided dataset. Show your work and explain your reasoning.",voice_2
+user7@example.com,"The magical forest was alive with creatures of all kinds. Fairies danced among the flowers, and unicorns grazed in the meadows.",voice_7
+user5@example.com,"Substack Update - Today we're diving deep into the future of remote work. How will AI change the way we collaborate?",voice_5
+user3@example.com,"Chapter 5: Data Preprocessing. Before training any machine learning model, it's crucial to properly prepare and clean your data.",voice_3
+user6@example.com,"The evil sorcerer cast a powerful spell that turned the entire kingdom to stone. Only the pure of heart could break the curse.",voice_6
+user8@example.com,"r/programming - Built my first web app using React and Node.js! Here's what I learned and some tips for beginners.",voice_8
+user1@example.com,"Newsletter - Breaking: Major breakthrough in renewable energy technology. Scientists have developed a new solar panel with 50% efficiency.",voice_1
+user4@example.com,"The young wizard studied ancient spells in the dusty library. Each page contained secrets that could change the course of history.",voice_4
+user2@example.com,"Section 4.1: Model Evaluation. Understanding how to properly evaluate machine learning models is essential for success.",voice_2 

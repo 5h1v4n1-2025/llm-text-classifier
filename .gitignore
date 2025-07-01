@@ -55,6 +55,8 @@ secrets.json
 # *.csv
 # *.json
 
+test_batch_classified_data.csv
+
 # Logs
 *.log
 logs/
